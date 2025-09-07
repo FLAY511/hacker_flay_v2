@@ -1,4 +1,4 @@
-# HACKER_FLAY v2
+# HACKER_FLAY v2 (fixed)
 
 Full toolkit: OSINT (15 tools), JSO maker, utilities, Dark Web access (edu).
 Banner: Cyber Skull + single typing text.
